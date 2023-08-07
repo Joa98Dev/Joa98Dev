@@ -13,6 +13,12 @@ One of my personal goals is to be able to create, with one of them being to deve
 * GitHub
 * Visual Studio Code
 
+## Other Skills
+* Godot Engine
+* Unity
+* Blender
+* Suite Adobe
+
 ## Currently learning 🪴
 * Git flow
 * New ways to use GitHub
