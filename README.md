@@ -30,7 +30,7 @@ One of my personal goals is to be able to create, with one of them being to deve
 ## Projects 🎮
 I'm currently working on a small indie game with the prototype name ***"Project Village"***
 
-##Side projects
+## Side project ⌨️
 * Password Generator App
 <!--
 **Joa98Dev/Joa98Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
