@@ -27,11 +27,12 @@ One of my personal goals is to be able to create, with one of them being to deve
 ## Improving 🪴
 * My programming logic
 
-## Projects 🎮
+## Main Projects 🎮
 I'm currently working on a small indie game with the prototype name ***"Project Village"***
 
-## Side project ⌨️
-* Password Generator App
+## Side projects ⌨️
+* Password Generator App 🔐
+* Web Browser 🌍
 <!--
 **Joa98Dev/Joa98Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
