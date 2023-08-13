@@ -33,6 +33,7 @@ I'm currently working on a small indie game with the prototype name ***"Project 
 ## Side projects ⌨️
 * Password Generator App 🔐
 * Web Browser 🌍
+* Leap Year Exercise 🎆
 <!--
 **Joa98Dev/Joa98Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
