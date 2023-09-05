@@ -28,14 +28,12 @@ One of my personal goals is to be able to create, with one of them being to deve
 ## Improving 🪴
 * My programming logic
 
-## Main Projects 🎮
-I'm currently working on a small game with the prototype name ***"Cursed Project"***
-
-## Side projects ⌨️
+## Projects ⌨️
 * Password Generator App 🔐
 * Web Browser 🌍
 * Leap Year Exercise 🎆
 * Image to ASCII Art Converter 🖼️
+* QR Code Generator & Reader App 💻
 <!--
 **Joa98Dev/Joa98Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
