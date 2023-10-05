@@ -34,7 +34,7 @@ One of my personal goals is to be able to create, with one of them being to deve
 * Leap Year Exercise 🎆
 * Image to ASCII Art Converter 🖼️
 * QR Code Generator & Reader App 💻
-* Muisc Station 📻
+* Music Station 📻
 <!--
 **Joa98Dev/Joa98Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
