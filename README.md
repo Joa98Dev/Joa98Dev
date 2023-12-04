@@ -1,8 +1,8 @@
 ### Hello World! 👋
 My name is Joaquín.
 
-Currently, I'm on my path to become a professional developer, as well as continuously keep learning new things in this wonderful world of development.
-One of my personal goals is to be able to create, with one of them being to develop video games.
+Currently, I'm on my path to become a professional developer, as well as continuously keep learning new things.
+One of my personal goals is to be able to create programs, video games and new technologies and skills.
 
 ## Skills ⌨️
 * HTML 
