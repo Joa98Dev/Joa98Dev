@@ -1,7 +1,8 @@
 ### Hello World! 👋
-I'm Joaquín.
 
-I am videogame and fullstack developer!
+## I'm Joaquín.
+
+I am a videogame and fullstack developer!
 
 * 👾 Currently I'm working on a small puzzle game.
 
