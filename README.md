@@ -4,7 +4,7 @@
 
 I am a videogame and fullstack developer!
 
-* 👾 Currently I'm working on a small puzzle game.
+* 👾 Currently, I'm working on a Web App Blog using the Django framework.
 
 ## Skills ⌨️
 * HTML 
@@ -20,6 +20,8 @@ I am a videogame and fullstack developer!
 * Godot Engine
 * Unity
 * Blender
+* Bootstrap
+* Django
 * Suite Adobe
 
 ## Currently learning 🪴
