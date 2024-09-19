@@ -4,7 +4,7 @@
 
 I am a videogame and fullstack developer!
 
-* 👾 Currently, I'm working on a Web App Blog using the Django framework.
+* 👾 Currently, I'm developing a short video game.
 
 ## Skills ⌨️
 * HTML 
