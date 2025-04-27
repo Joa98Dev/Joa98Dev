@@ -4,14 +4,14 @@
 
 I am a videogame and fullstack developer!
 
-* 👾 Currently, I'm developing a short video game.
+* 👾 Currently, I'm learning the C++ programming language.
 
 ## Skills ⌨️
 * HTML 
 * CSS
 * JavaScript
 * Python
-* Java
+* C++
 * Git
 * GitHub
 * Visual Studio Code
