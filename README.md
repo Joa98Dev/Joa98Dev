@@ -1,12 +1,10 @@
 ### Hello World! 👋
 
-## I'm Joaquín.
+I'm Joaquín. I am a videogame and fullstack developer!
 
-I am a videogame and fullstack developer!
+* ⚙️ Currently, I'm developing an open-source PDF Tool Manager called **ProDF**.
 
-* 👾 Currently, I'm learning the C++ programming language.
-
-## Skills ⌨️
+## ⌨️ Skills
 * HTML 
 * CSS
 * JavaScript
@@ -16,26 +14,27 @@ I am a videogame and fullstack developer!
 * GitHub
 * Visual Studio Code
 
-## Other Skills
+## ⌨️ Other Skills
 * Godot Engine
-* Unity
-* Blender
-* Bootstrap
 * Django
-* Suite Adobe
+* Flask
+* wxWidgets
+* Raylib
+* Blender
+* GIMP
+* Inkscape
 
-## Currently learning 🪴
-* 👾 Kotlin
-* 🤖 Android Studio
-* 🐬 mySQL
+## 🪴 Currently learning and improving
+* 👾 C++
+* 👾 Raylib
 
-## Projects ⌨️
-* 🔐 Password Generator App
-* 🌍 Web Browser 
-* 🎆 Leap Year Exercise 
-* 🖼️ Image to ASCII Art Converter
-* 💻 QR Code Generator & Reader App
-* 📻 Music Station
+## ⌨️ Projects 
+* [📄ProDF](https://github.com/Joa98Dev/prodf)
+* [📹PyTube Downloader](https://github.com/Joa98Dev/pytube-downloader)
+* [🔐 Password Generator App](https://github.com/Joa98Dev/passgen-)
+* [🌍 Web Browser](https://github.com/Joa98Dev/pybrowser)
+* [💻 QR Code Generator & Reader App](https://github.com/Joa98Dev/qrcode-generator-reader-app)
+* [📻 Music Station](https://github.com/Joa98Dev/music-station)
 <!--
 **Joa98Dev/Joa98Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
