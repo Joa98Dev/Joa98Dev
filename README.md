@@ -2,7 +2,7 @@
 
 I'm Joaquín. I am a videogame and fullstack developer!
 
-* ⚙️ Currently, I'm developing an open-source PDF Tool Manager called **ProDF**.
+* 🔭 I’m currently working on a small RPG game using C/C++
 
 ## ⌨️ Skills
 * HTML 
@@ -10,6 +10,7 @@ I'm Joaquín. I am a videogame and fullstack developer!
 * JavaScript
 * Python
 * C++
+* C#
 * Git
 * GitHub
 * Visual Studio Code
@@ -25,8 +26,7 @@ I'm Joaquín. I am a videogame and fullstack developer!
 * Inkscape
 
 ## 🪴 Currently learning and improving
-* 👾 C++
-* 👾 Raylib
+* 🌱 C/C++
 
 ## ⌨️ Projects 
 * [📄ProDF](https://github.com/Joa98Dev/prodf)
