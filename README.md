@@ -51,6 +51,7 @@ Deepening my knowledge in advanced low-level concepts, multimedia APIs, and soft
 
 Here is a look at some of my software developments and personal initiatives:
 
+* 🎮 **Dialogue System** — A flexible, modular visual novel-style dialogue system built in C++ using the Raylib library. 
 * 📄 **ProDF** — A versatil, simple and powerful tool for managing and converting PDFs. 
 * 📥 **PyTube Downloader** — Interactive Python-based tool for downloading multimedia content.
 * 🔐 **Password Generator App** — Utility focused on the secure generation of credentials.
